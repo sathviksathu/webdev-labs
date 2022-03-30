@@ -9,3 +9,17 @@ body {
 /*
 Add some style blocks below this line to style the card.
 */
+#card-style{
+    box-sizing: border-box;
+    border: solid 2px #CCC; 
+    width: 50vh;
+    height: 80vh;
+    padding: 10px;
+    margin: 10px;   
+    
+}
+
+img {    
+    width: 100%;
+    height: 100%;
+}
