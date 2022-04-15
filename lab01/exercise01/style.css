@@ -9,14 +9,15 @@ body {
 /*
 Add some style blocks below this line to style the card.
 */
-#card-style{
+.r-info{
+    display: flex;
+    flex-direction: column;
     box-sizing: border-box;
-    border: solid 2px #CCC; 
+    border: solid 2px rgb(153, 57, 57); 
     width: 50vh;
-    height: 80vh;
+    height: f;
     padding: 10px;
     margin: 10px;   
-    
 }
 
 img {    
